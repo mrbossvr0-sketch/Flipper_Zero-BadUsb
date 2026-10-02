@@ -10,6 +10,6 @@ DELAY 500
 ENTER
 DELAY 1000
 REM Insert your website below :)
-STRING www.yourwebsite.com
+STRING https://m.youtube.com/channel/UCyDIqhFpyDd8f8EIvEL_AuA
 DELAY 500
 ENTER
